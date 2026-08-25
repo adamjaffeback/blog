@@ -13,7 +13,7 @@ description: "A blog about not knowing what you don't know."
 short_url: 'jekyllt.github.io/jasper/'
 google_analytics: UA-69281367-1
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: '/'
+baseurl: ''
 
 # Permalinks
 permalink: /:title/
