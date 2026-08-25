@@ -15,6 +15,9 @@ google_analytics: UA-69281367-1
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
 baseurl: ''
 
+# Show the hamburger menu (site nav with Home link) in the header on every page
+navigation: true
+
 # Permalinks
 permalink: /:title/
 # permalink: /author/:username
