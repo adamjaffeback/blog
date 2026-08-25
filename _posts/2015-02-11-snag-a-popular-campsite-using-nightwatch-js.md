@@ -5,7 +5,7 @@ subclass: 'post'
 title: "Snag a (Popular) Campsite using Nightwatch.js"
 date: 2015-02-11 19:00:18 +0000
 slug: "snag-a-popular-campsite-using-nightwatch-js"
-image: "/assets/images/2015/02/Screen-Shot-2015-02-11-at-10-59-52-AM.png"
+cover: "/assets/images/2015/02/Screen-Shot-2015-02-11-at-10-59-52-AM.png"
 meta_title: "Snag a (Popular) Campsite using Nightwatch.js"
 ghost_id: 34
 ghost_uuid: "be38dcc3-4f1b-4b5b-bc2c-e021003b355d"

@@ -5,7 +5,7 @@ subclass: 'post'
 title: "Signing Your Cover Letter"
 date: 2015-03-09 04:52:06 +0000
 slug: "signing-your-cover-letter"
-image: "http://www.chicagonow.com/still-advocating/files/2014/05/JohnHancock.png"
+cover: "http://www.chicagonow.com/still-advocating/files/2014/05/JohnHancock.png"
 description: "Learn how to sign your cover letter with Preview on Mac."
 ghost_id: 40
 ghost_uuid: "2a19771e-2060-40e0-8683-2d6264101bfa"

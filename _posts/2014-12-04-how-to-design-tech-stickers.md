@@ -5,7 +5,7 @@ subclass: 'post'
 title: "How to Design Tech Stickers"
 date: 2014-12-04 19:31:43 +0000
 slug: "how-to-design-tech-stickers"
-image: "/assets/images/2014/12/IMG_1774-1.JPG"
+cover: "/assets/images/2014/12/IMG_1774-1.JPG"
 description: "Learn how to make a tech sticker for your start-up, company, or product. "
 meta_title: "How to Design Tech Stickers"
 ghost_id: 23

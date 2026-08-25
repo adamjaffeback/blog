@@ -5,7 +5,7 @@ subclass: 'post'
 title: "Git Faster (My Git Aliases)"
 date: 2014-10-26 06:23:02 +0000
 slug: "git-outta-here-my-git-aliases"
-image: "/assets/images/2014/10/475535_10150866953388795_980256035_o.jpg"
+cover: "/assets/images/2014/10/475535_10150866953388795_980256035_o.jpg"
 description: "Commit frequently, but work quickly by setting git aliases."
 meta_title: "Git Faster (My Git Aliases)"
 ghost_id: 16

@@ -5,7 +5,7 @@ subclass: 'post'
 title: "An Algorithmic Look at Lyft Line and UberPool"
 date: 2015-02-24 21:35:27 +0000
 slug: "an-algorithmic-look-at-lyft-line-and-uber-pool"
-image: "/assets/images/2015/02/IMG_1578.JPG"
+cover: "/assets/images/2015/02/IMG_1578.JPG"
 description: "Both of the algorithms match riders who are traveling to a similar destination, but this is where the similarity ends."
 meta_title: "The Difference Between Lyft Line and UberPool"
 ghost_id: 38

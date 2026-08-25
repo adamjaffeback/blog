@@ -5,7 +5,7 @@ subclass: 'post'
 title: "The Truth About Hash Tables"
 date: 2014-11-01 03:21:50 +0000
 slug: "the-truth-about-hash-tables"
-image: "http://1.bp.blogspot.com/_eqGBdlhZB5k/S9NKHdomQ6I/AAAAAAAAAmk/Dl623RdNwzc/s1600/hashbrown.jpg"
+cover: "http://1.bp.blogspot.com/_eqGBdlhZB5k/S9NKHdomQ6I/AAAAAAAAAmk/Dl623RdNwzc/s1600/hashbrown.jpg"
 description: "A basic overview of hash tables in JavaScript."
 meta_title: "The Truth About Hash Tables"
 ghost_id: 17

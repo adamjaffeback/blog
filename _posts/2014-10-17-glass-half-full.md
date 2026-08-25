@@ -5,7 +5,7 @@ subclass: 'post'
 title: "Glass Half Full"
 date: 2014-10-17 21:34:10 +0000
 slug: "glass-half-full"
-image: "/assets/images/2014/10/192503_10151183175408795_49025760_o.jpg"
+cover: "/assets/images/2014/10/192503_10151183175408795_49025760_o.jpg"
 description: "You will succeed.
 Because you're awesome.
 And so are the people around you. On being half-way done with Hack Reactor."

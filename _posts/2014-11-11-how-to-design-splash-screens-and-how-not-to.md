@@ -5,7 +5,7 @@ subclass: 'post'
 title: "Go Far, Go Fast (iOS Design)"
 date: 2014-11-11 20:05:27 +0000
 slug: "how-to-design-splash-screens-and-how-not-to"
-image: "/assets/images/2014/11/Grand-Canal-Venise-1905.jpg"
+cover: "/assets/images/2014/11/Grand-Canal-Venise-1905.jpg"
 description: "Ionic is great. Designing as a team is hard. Creating app splash screens and icons for every device known to man is impossible."
 meta_title: "Go Far, Go Fast (iOS Design)"
 ghost_id: 19

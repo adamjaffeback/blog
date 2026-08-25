@@ -5,7 +5,7 @@ subclass: 'post'
 title: "Speed Test: Database vs. Programmatic Sorting"
 date: 2016-06-25 00:05:22 +0000
 slug: "speed-test-order-by-or-programmatic-sorting"
-image: "/assets/images/2016/06/13316857_10108239682352394_1749657195416456453_o.jpg"
+cover: "/assets/images/2016/06/13316857_10108239682352394_1749657195416456453_o.jpg"
 description: "What's quicker?  Should we use JavaScript to programmatically sort database entries server-side or rely on ORDER BY?"
 meta_title: "Speed Test: Database vs. Programmatic Sorting"
 ghost_id: 66

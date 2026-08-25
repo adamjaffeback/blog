@@ -5,7 +5,7 @@ subclass: 'post'
 title: "The Collective"
 date: 2014-09-24 05:44:27 +0000
 slug: "the-collective"
-image: "/assets/images/2014/09/10547232_10152314859673795_1926161283970743735_o-1.jpg"
+cover: "/assets/images/2014/09/10547232_10152314859673795_1926161283970743735_o-1.jpg"
 description: "I wouldn't code if the end effect only benefited me. We can do great things that change lives with a few bits. What great power and responsibility.
 
 What a great role to play in the collective."

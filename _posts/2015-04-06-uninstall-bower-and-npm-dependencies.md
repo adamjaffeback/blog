@@ -5,7 +5,7 @@ subclass: 'post'
 title: "Uninstall Bower & NPM Dependencies"
 date: 2015-04-06 20:10:08 +0000
 slug: "uninstall-bower-and-npm-dependencies"
-image: "https://momland.files.wordpress.com/2012/08/sock-basket1.jpg"
+cover: "https://momland.files.wordpress.com/2012/08/sock-basket1.jpg"
 meta_title: "Uninstall Bower and NPM Dependencies"
 ghost_id: 44
 ghost_uuid: "bdd79033-26e3-4948-ae20-f2f8e62e5990"

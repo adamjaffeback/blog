@@ -5,7 +5,7 @@ subclass: 'post'
 title: "Deploy a MEAN app on Azure"
 date: 2015-01-06 22:12:44 +0000
 slug: "deploy-a-mean-app-on-azure"
-image: "http://blog.langoor.mobi/wp-content/uploads/2013/07/meanstack-624x250.jpg"
+cover: "http://blog.langoor.mobi/wp-content/uploads/2013/07/meanstack-624x250.jpg"
 description: "Step-by-step for deploying a MEAN stack app on Azure."
 ghost_id: 28
 ghost_uuid: "b99f3d8c-fbf2-432a-9b07-049ec1f1dd89"

@@ -5,7 +5,7 @@ subclass: 'post'
 title: "Testing setTimeout & setInterval With Jasmine-Node"
 date: 2015-10-30 22:38:16 +0000
 slug: "testing-setinterval-with-jasmine-node"
-image: "https://moondustwriter.files.wordpress.com/2011/06/salvador-dali.jpg"
+cover: "https://moondustwriter.files.wordpress.com/2011/06/salvador-dali.jpg"
 description: "Ditch Jasmine's complicated mock clock and compare the difference between Node.js and window's setTimeout/setInterval."
 meta_title: "Testing setInterval with Jasmine-Node"
 ghost_id: 58
